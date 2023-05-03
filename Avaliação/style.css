@@ -118,6 +118,10 @@ body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    background-color: var(--cor-secundaria);
+    border: var(--cor-secundaria) 1px solid;
+    border-radius: 2rem;
+    padding: 30px;
 }
 .card img{
     width: 100%;
